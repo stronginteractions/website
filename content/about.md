@@ -11,10 +11,10 @@ The podcast is intended for the wider EIC community, especially students. We wou
 
 ## Maria Żurek
 
-![Maria Żure](/images/profile/maria.png)
+![Maria Żurek](/images/profile/maria.png)
 
-Maria is an Assistant Physicist at Argonne National Laboratory trying to unravel the mystery of the origin of the spin of the proton with the STAR experiment and the future Electron Ion Collider facility.
-Her academic interest focuses on exploring the nature of the strong interaction and the way it manifests itself in the properties and interactions of hadrons. Pursuing this scientific direction, she has been studying experimentally the features of nucleons - the basic constituents of visible matter - from the source of their mass, to their spin properties.
+Maria is an Assistant Physicist at Argonne National Laboratory trying to unravel the mystery of the origin of the spin of the proton with the STAR and CLAS12 experiments and the future Electron Ion Collider facility.
+Her academic interest focuses on eperimentally exploring the nature of the strong interaction and the way it manifests itself in the properties and interactions of hadrons. She likes getting her hands dirty with jets, calorimetry, and tricky cross-section measurements.  
 
 ## Markus Diefenthaler
 
