@@ -4,6 +4,9 @@ title: About
 
 **Strong Interactions** is a podcast about exploring a new frontier in nuclear physics at the upcoming Electron Ion Collider, by Maria Żurek and Markus Diefenthaler.
 
+The podcast is intended for the wider EIC community, especially students. We would like to educate new members of our community on the science program of the EIC and discuss its unique role for nuclear physics and other fields of science. We also see this as an opportunity for learning how to better communicate the EIC science to the general public. 
+
+
 ## Maria Żurek
 
 ![Maria Żure](/images/profile/maria.png)
