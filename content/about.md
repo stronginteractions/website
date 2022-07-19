@@ -21,3 +21,10 @@ Her academic interest focuses on exploring the nature of the strong interaction 
 ![Markus Diefenthaler](/images/profile/markus.jpg)
 
 Markus is a Staff Scientist at Jefferson Lab. He is known internationally for his work in the area of nuclear physics, especially as it relates to the experimental investigation of the quark-gluon structure of the nucleon. He is currently working on the Electron-Ion Collider and coordinating simulation efforts for the ongoing development of the science program and detectors of the frontier nuclear physics facility. In addition to that, he is addressing challenges of autonomous control and experimentation in his research on a responsive, self-calibrating detector system.
+
+## Acknowledgment
+
+* We thank Simon Taylor (Jefferson Lab) for the **Strong Interactions** soundtrack and use his composition of "Mustermark" for the intro and outro. 
+* We thank Azizah Mahmood (University of Regina) for the recording our jingle. 
+* We thank Javier Villalpando for the **Strong Interactions** logo. 
+* We thank [Lindsay McCargar ](https://lindsaymccargar.com) for producing the **Strong Interactions** episodes. 
