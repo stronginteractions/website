@@ -2,7 +2,7 @@
 title: About
 ---
 
-**Strong Interactions** is a podcast about exploring the new frontiers in nuclear physics at the upcoming Electron Ion Collider, by Maria Żurek and Markus Diefenthaler.
+**Strong Interactions** is a podcast about exploring a new frontier in nuclear physics at the upcoming Electron Ion Collider, by Maria Żurek and Markus Diefenthaler.
 
 ## Maria Żurek
 
@@ -15,4 +15,4 @@ Her academic interest focuses on exploring the nature of the strong interaction 
 
 ![Markus Diefenthaler](/images/profile/markus.jpg)
 
-Markus is a Staff Scientist at Jefferson Lab. He is developing the science program of the Electron Ion Collider (EIC) and working on the design of the frontier Nuclear Physics facility. In addition to his work on the EIC, he is studying transverse-momentum dependent (TMD) observables to image quarks and gluons and their interactions and working on seamless data processing from detector readout to analysis using AI.
+Markus is a Staff Scientist at Jefferson Lab. He is known internationally for his work in the area of nuclear physics, especially as it relates to the experimental investigation of the quark-gluon structure of the nucleon. He is currently working on the Electron-Ion Collider and coordinating simulation efforts for the ongoing development of the science program and detectors of the frontier nuclear physics facility. In addition to that, he is addressing challenges of autonomous control and experimentation in his research on a responsive, self-calibrating detector system.
