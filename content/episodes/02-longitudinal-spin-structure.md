@@ -7,6 +7,6 @@ podcast:
   mp3: /audio/ep02.mp3
 ---
 
-Today we will be talking about the spin on the proton, especially the longitudinal spin structure: what it is, and how we can study it, with our expert, [Dr. Renee Fatemi](/guests/fatemi) from the University of Kentucky.
+In our second episode of stories straight from the heart of matter, we have talked about the spin on the proton and how we can study spin structure with our expert, [Dr. Renee Fatemi](/guests/fatemi) from the University of Kentucky.
 
 {{< audio src="/audio/ep02.mp3" >}}
