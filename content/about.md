@@ -2,7 +2,7 @@
 title: About
 ---
 
-**Strong Interactions** is a podcast about exploring a new frontier in nuclear physics at the upcoming Electron Ion Collider. 
+**Strong Interactions** is a podcast about exploring a new frontier in nuclear physics at the upcoming Electron-Ion Collider (EIC). 
 
 The podcast is intended for the wider EIC community, especially students. We would like to educate new members of our community on the science program of the EIC and discuss its unique role for nuclear physics and other fields of science. We also see this as an opportunity for learning how to better communicate the EIC science to the general public. 
 
@@ -13,7 +13,7 @@ The podcast is intended for the wider EIC community, especially students. We wou
 
 ![Maria Żurek](/images/profile/maria.png)
 
-Maria is an Assistant Physicist at Argonne National Laboratory trying to unravel the mystery of the origin of the spin of the proton with the STAR and CLAS12 experiments and the future Electron Ion Collider facility.
+Maria is an Assistant Physicist at Argonne National Laboratory trying to unravel the mystery of the origin of the spin of the proton with the STAR and CLAS12 experiments and the future Electron-Ion Collider facility.
 Her academic interest focuses on eperimentally exploring the nature of the strong interaction and the way it manifests itself in the properties and interactions of hadrons. She likes getting her hands dirty with jets, calorimetry, and tricky cross-section measurements.  
 
 ## Markus Diefenthaler
