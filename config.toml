@@ -14,7 +14,7 @@ footer = "Powered by [Hugo](https://gohugo.io/), the [Zen theme](https://github.
 
 [params.podcast]
 title = "Strong Interactions"
-description = "A podcast about exploring a new frontier in nuclear physics at the upcoming Electron Ion Collider, by Maria Zurek and Markus Diefenthaler"
+description = "A podcast about exploring a new frontier in nuclear physics at the upcoming Electron-Ion Collider, by Maria Zurek and Markus Diefenthaler"
 explicit = false
 type = "episodic"
 local = true
