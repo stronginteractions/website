@@ -28,3 +28,4 @@ Markus is a Staff Scientist at Jefferson Lab. He is known internationally for hi
 * We thank Azizah Mahmood (University of Regina) for recording our jingle. 
 * We thank Javier Villalpando for the **Strong Interactions** logo. 
 * We thank [Lindsay McCargar ](https://lindsaymccargar.com) for producing the **Strong Interactions** episodes. 
+* We thank Ludovico Bianchi (Lawrence Berkeley National Lab) for help with the website.
