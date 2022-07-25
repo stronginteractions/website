@@ -1,5 +1,5 @@
 ---
-title: "Episode 2"
+title: "Episode 2: Will Be Relesed on September 1"
 podcast:
   episode: 2
   season: 1
