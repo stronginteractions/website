@@ -1,0 +1,50 @@
+<aside class="sidebar layout__second-sidebar">
+  <div class="badges">
+    {{ if .Site.Params.Podcast.spotify}}
+    <a href="{{.Site.Params.Podcast.spotify}}">
+      <img
+        src="/listen-on/spotify.png"
+        style="padding: 0 2rem"
+        alt="badge spotify"
+      />
+    </a>
+    {{ end -}}
+    {{ if .Site.Params.Podcast.apple}}
+    <a href="{{.Site.Params.Podcast.apple}}">
+      <img
+        src="/listen-on/apple-podcasts.png"
+        style="
+          margin: 0 2rem;
+          max-width: 59%;
+          border-radius: 10px;
+          border: 1px solid lightgray;
+        "
+        alt="badge apple podcasts"
+      />
+    </a>
+    {{ end -}}
+    {{ if .Site.Params.Podcast.amazon }}
+    <a href="{{.Site.Params.Podcast.amazon}}">
+      <img
+        src="/listen-on/amazon-music.png"
+        style="
+          margin: 0 2rem;
+          max-width: 59%;
+          border-radius: 10px;
+          border: 1px solid lightgray;
+        "
+        alt="badge amazon music"
+      />
+    </a>
+    {{ end -}}
+    {{ if .Site.Params.Podcast.google}}
+    <a href="{{.Site.Params.Podcast.google}}">
+      <img
+        src="/listen-on/google-podcasts.png"
+        style="padding: 0 2rem; max-width: 100%"
+        alt="badge google podcast"
+      />
+    </a>
+    {{ end -}}
+  </div>
+</aside>

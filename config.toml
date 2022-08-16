@@ -11,6 +11,7 @@ mainSections = [
 ]
 copyright = "© 2022 Strong Interactions Podcast"
 footer = "Powered by [Hugo](https://gohugo.io/), the [Zen theme](https://github.com/frjo/hugo-theme-zen), and opportunely manipulated charged leptons."
+sidebar = true
 
 [params.podcast]
 title = "Strong Interactions"
@@ -18,3 +19,7 @@ description = "A podcast about exploring a new frontier in nuclear physics at th
 explicit = false
 type = "episodic"
 local = true
+spotify = "https://open.spotify.com/show/6VsBMUrgv5kRxSapu16fF6"
+amazon = "https://music.amazon.com/podcasts/c25725bb-194f-430d-908e-d7d447b9334e"
+google = ""
+apple = ""
