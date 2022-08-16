@@ -9,4 +9,5 @@ podcast:
 
 In our very first episode of stories straight from the heart of matter, we have dived right inside the protons. We have learned about the internal structure of these basic and yet complex building blocks of matter from our guest, [Dr. Robert L. Jaffe](/guests/jaffe) from MIT.
 
-{{< audio src="/audio/ep01.mp3" >}}
+<!-- {{< audio src="/audio/ep01.mp3" >}} -->
+{{< podbean 2tqeh-e36848 >}}
