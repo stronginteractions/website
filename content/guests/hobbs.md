@@ -11,8 +11,6 @@ profile:
 
 Tim Hobbs is a theoretical particle physicist at Argonne National Laboratory. He explores Quantum Chromodynamics, the theory of the strong interaction, and its implications for experiments across a broad range of energies, from the Large Hadron Collider at CERN to neutrino-scattering measurements at Fermilab and elsewhere. 
 
----
-
 ## Links
 
 - https://www.anl.gov/profile/tim-hobbs 
