@@ -8,6 +8,7 @@ podcast:
 ---
 
 In our third episode of stories straight from the heart of matter, we talk about the connections between the Electron-Ion Collider and High-Energy Physics, in particular parton distribution functions. What are parton distribution functions or short PDFs, how we extract them, and why they are of importance for Nuclear and High-Energy Physics, we learn from our expert, Dr. Tim Hobbs of Argonne National Laboratory. 
+{{< podbean-episode ndv2a-131fa1c >}}
 
 ---
 

@@ -9,5 +9,4 @@ podcast:
 
 In our second episode of stories straight from the heart of matter, we have talked about the spin on the proton and how we can study spin structure with our expert, [Dr. Renee Fatemi](/guests/fatemi) from the University of Kentucky.
 
-<!-- {{< audio src="/audio/ep02.mp3" >}} -->
-{{< podbean 2tqeh-e36848 >}}
+{{< podbean-episode 9uecj-12b19a3 >}}
