@@ -14,4 +14,4 @@ Martha Constantinou is an Assistant Professor at Temple University in Philadelph
 
 ## Links
 
-- [https://phys.cst.temple.edu/martha-constantinou.html](https://phys.cst.temple.edu/martha-constantinou.html)
+- [https://cst.temple.edu/about/faculty-staff/martha-constantinou](https://cst.temple.edu/about/faculty-staff/martha-constantinou)
