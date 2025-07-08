@@ -6,7 +6,7 @@ title: About
 
 The podcast is intended for the wider EIC community, especially students. We would like to educate new members of our community on the science program of the EIC and discuss its unique role for nuclear physics and other fields of science. We also see this as an opportunity for learning how to better communicate the EIC science to the general public. 
 
-**Strong Interactions** is created by Maria Żurek and Markus Diefenthaler under the auspices of the EIC User Group. 
+**Strong Interactions** is created by Maria Żurek and Markus Diefenthaler, in collaboration with Azizah Mahmood, under the auspices of the EIC User Group. 
 
 
 ## Maria Żurek
@@ -21,6 +21,12 @@ Her academic interest focuses on eperimentally exploring the nature of the stron
 ![Markus Diefenthaler](/images/profile/markus.jpg)
 
 Markus is a Staff Scientist at Jefferson Lab. He is known internationally for his work in the area of nuclear physics, especially as it relates to the experimental investigation of the quark-gluon structure of the nucleon. He is currently working on the Electron-Ion Collider and coordinating simulation efforts for the ongoing development of the science program and detectors of the frontier nuclear physics facility. In addition to that, he is addressing challenges of autonomous control and experimentation in his research on a responsive, self-calibrating detector system.
+
+## Azizah Mahmood 
+
+![Azizah Mahmood](/images/profile/azizah.JPG)
+
+Azizah is a Masters Graduate from the University of Regina who researched particle identification using various machine learning algorithms for the JEF project at Jefferson Lab. She is currently focused on community involvement and physics outreach for youth engagement in STEM. 
 
 ## Acknowledgment
 
