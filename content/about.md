@@ -24,7 +24,7 @@ Markus is a Staff Scientist at Jefferson Lab. He is known internationally for hi
 
 ## Azizah Mahmood 
 
-![Azizah Mahmood](/images/profile/azizah.JPG)
+![Azizah Mahmood](/images/profile/azizah.png)
 
 Azizah is a Masters Graduate from the University of Regina who researched particle identification using various machine learning algorithms for the JEF project at Jefferson Lab. She is currently focused on community involvement and physics outreach for youth engagement in STEM. 
 
