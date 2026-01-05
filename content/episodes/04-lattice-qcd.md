@@ -15,5 +15,5 @@ In our fourth episode of "Stories Straight from the Heart of Matter," we discuss
 
 ## Further Reading  
 
-* Rajan Gupta’s  [lecture notes](https://inspirehep.net/literature/454590) provide a rovide a pedagogical introduction to Lattice QCD.
-* [50 Years of Quantum Chromodynamics](https://inspirehep.net/literature/2617065) provides a comprehensive review of the theoretical and experimental studies of QCD, including an up-to-date discussion on Lattice QCD.
+* Rajan Gupta’s  [lecture notes](https://inspirehep.net/literature/454590) provide a pedagogical introduction to Lattice QCD.
+* [50 Years of Quantum Chromodynamics](https://inspirehep.net/literature/2617065) presents a comprehensive review of the theoretical and experimental studies of QCD, including an up-to-date discussion of Lattice QCD.
