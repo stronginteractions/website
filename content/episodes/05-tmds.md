@@ -15,5 +15,5 @@ A century after the birth of quantum mechanics, advances in quantum science and 
 
 ## Further Reading  
 
-* The [TMD Handbook](https://inspirehep.net/literature/2652160) offers a broad overview of TMDs, including their theoretical foundations, how they are used to interpret experimental data, and their role in modern nuclear physics research.
-* [Phenomenology of TMD parton distributions in Drell–Yan and Z⁰ boson production in a hadron-structure-oriented approach](https://inspirehep.net/literature/2797374) describes, in a clear and structured way, how physicists interpret high-energy collision data to learn about the internal motion of quarks inside protons.
+* The [TMD Handbook](https://inspirehep.net/literature/2650019) offers a broad overview of TMDs, including their theoretical foundations, how they are used to interpret experimental data, and their role in modern nuclear physics research.
+* [Phenomenology of TMD parton distributions in Drell–Yan and Z⁰ boson production in a hadron-structure-oriented approach](https://inspirehep.net/literature/2751355) describes, in a clear and structured way, how physicists interpret high-energy collision data to learn about the internal motion of quarks inside protons.
