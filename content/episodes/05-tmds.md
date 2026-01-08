@@ -1,5 +1,5 @@
 ---
-title: "Episode 5: Transverse Momentum Dependent Structure, with Elena Boglione"
+title: "Episode 5: Transverse-Momentum-Dependent Structure, with Elena Boglione"
 podcast:
   episode: 5
   season: 1
